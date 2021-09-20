@@ -23,7 +23,7 @@ Maylen ronin:2fcb329fafdf822a376327b6c174195976437d32
 Marcelo ronin:b9bc6e5ddd5ce915e0b47fe0447cccfe1d00fde0
 @alfonzo732 ronin:6edd7088716efc9ced1f22b85b83952d3fdda2cc
 @Gsus93 ronin:3891bce716556afd2ec5ab107636facafcb3ab6a
-@Gsus93 ronin:db4f55d5a46a7437e9f2a03335392b06d3255636
+@Dogor2305 ronin:db4f55d5a46a7437e9f2a03335392b06d3255636
 @AngeloDam85 ronin:c0b5c37a72b2ab9d45980a2fdbab129e2fdb58bc
 @jhonbairo ronin:02e64e8b5cf05e40b34ae4f7da6da09842102f12
 @JoseLRO ronin:72802ec976db84b4c114a6558cc35c3844d6a393
